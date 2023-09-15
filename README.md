@@ -13,7 +13,7 @@ Me encataria colaborar con gente que se sume al cambio y quiera poner un granito
 - 🤔 Me encataria recibir ayuda, comentarios, mentoria sobre como avanzar y poder colaborar mas en el mundo de la tecnologia, poder buscar alguna marca o fundacion que nos permita tener su apoyo para validar algunos reconocimientos para Create and desing your future.
 Tambien en intercambios y sumas que motiven a mas jovenes en el mundo laboral y genial.
 - 📫 Nos pueden contactar a traves de instagram [@create.desing.your.future.ofc](https://instagram.com/create.design.your.future.ofc) y por nuestro correo dreamsliveyour058@gmail.com
-Y por mis redes personales como
+###Y por mis redes personales como
 -Instagram: [@dul_djg](https://instagram.com/dul_djg)
 +Facebook: [Dulce De Jesus](https://www.facebook.com/dulce.dejesus.5686322?locale=es_LA)
 -Linkedln: [Dulce Granados](https://www.linkedin.com/in/dulce-granados-3b1849288)
