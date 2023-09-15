@@ -25,15 +25,3 @@ Soy muy pacifica, adoro compartir, conocer y aprender nuevas cosas.
 **Palabra en negrita**
 *Palabra en cursiva*
 ~~Esta equivocada este texto~~
-Mi primera linea de codigo en python:
-```
-print("Hello, mundo!")
-```
-### Listas
-- JavaScript
-* Python
-+ Goland
-
-Còmo agragar un link externo en el readme de GitHub 
-El markdown lo aprendi en [Tecnolochicas](https://tecnolochicas.mx/)
-
